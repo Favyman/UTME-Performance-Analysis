@@ -26,7 +26,7 @@ This project aims to identify the major predictors of UTME performance and provi
 
 
 ## 📊 Dataset
-[Dataset] (......)
+[Dataset] (https://github.com/Favyman/UTME-Performance-Analysis/commit/49e86ee77d834820c83ad8964d415a03c6cdaaf1)
 
 The dataset contains demographic, educational, and behavioral information of secondary school students, including:
 

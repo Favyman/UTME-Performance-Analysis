@@ -26,6 +26,7 @@ This project aims to identify the major predictors of UTME performance and provi
 
 
 ## 📊 Dataset
+[Dataset] (......)
 
 The dataset contains demographic, educational, and behavioral information of secondary school students, including:
 
@@ -90,7 +91,7 @@ The analysis found no meaningful difference in UTME performance between students
 
 
 # 📊 Dashboard Highlights
-[UTME Performance Dashboard] (......)
+[UTME Performance Dashboard] (https://github.com/Favyman/UTME-Performance-Analysis/commit/f646739061340d2e9065c665ec6a6ac5bca21544)
 
 The Excel dashboard includes:
 
